@@ -1,0 +1,21 @@
+--- # PES
+    Step6: [I5 , TS6, P]
+
+
+--- # SPECIES
+    I5     : Step6_I5_OPT*
+    TS6    : Step6_TS6_OPT*
+    P      : Step6_P_OPT*
+
+
+    
+--- # FORMAT
+    dec :  2 
+    legend : False
+    color : black,#26a6a4
+    pointlabel : False 
+    gridlines: True
+    show_conformers: False
+    show_gconf: False
+    dpi : 400
+    title: Potential Energy Surface
