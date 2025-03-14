@@ -1,5 +1,7 @@
 # 🧪 DFT Calculations using Gaussian
 
+![TS6 Animation](https://github.com/niayeshzrf/DFT-Calculations/blob/main/TS6-2.gif?raw=true)
+
 ## Overview
 This repository contains Gaussian input (`.com`) and output (`.log`) files for **Potential Energy Surface (PES) analysis**, **geometry optimization** (minimum and transition state search), and **Intrinsic Reaction Coordinate (IRC) calculations**. The analysis is performed using [GoodVibes](https://github.com/patonlab/GoodVibes) to compute thermochemical properties and relative energies.
 
